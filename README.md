@@ -1,3 +1,3 @@
 # home-page
 
-Personal website
+Personal website for .se domain
