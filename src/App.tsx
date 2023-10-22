@@ -165,7 +165,7 @@ export default function App() {
             </a>
           </div>
         </Tree>
-        <Tree name={<span>🙀 page is empty</span>} />
+        <Tree name={<span>🙀 The end.</span>} />
       </Tree>
     </Container>
   );
